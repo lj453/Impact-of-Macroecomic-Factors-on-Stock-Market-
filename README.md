@@ -21,7 +21,9 @@ This project main purpose to focus on the following points:
 •	 How do macroeconomic factors like GDP growth, the unemployment rate, and the consumer price index affect the stock prices of companies that are publicly traded?<br>
 •	How can a model be created that can show how a macroeconomic variable affects the stock market and which macroeconomic factor has the biggest impact on the price of Apple stock?<br>
 •	Which model is more effective at forecasting stock price information?<br>
+
 After fixing the research questions a lot of research papers were analysed. From the literature review, I gained insights to my problem statement: <br>
+
 •	Developing a deeper comprehension of the impact of various macroeconomic factors on various stock markets<br>
 •	Importance of technical indicators and which all technical indicators such as MACD, Bollinger Bands are effective at forecasting changes in stock prices for short-term trading.<br>
 •	Using macroeconomic variables to predict stock prices and effectively identify the most important factors influencing the stock market using Random Forest<br>
