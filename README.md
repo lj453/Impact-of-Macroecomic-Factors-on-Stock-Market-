@@ -1,6 +1,6 @@
 # **IMPACT OF MACROECONOMIC FACTORS ON STOCK MARKET AND STOCK PRICE PREDICTION**
 
-## **Executive summary**
+## **Overview**
 
 A stock market is a type of marketplace that facilitates the buying and selling of publicly traded company stocks and other types of securities. It is a significant source of capital for businesses, and it presents an opportunity for individuals as well as institutions to make investments. In determining the performance of the stock market and stock prices, macroeconomic factors are essential. GDP, inflation, interest rates, employment, and political stability are a few of these elements. Investors can make better decisions about when to buy or sell stocks by having a solid understanding of how these macroeconomic factors may affect stock prices. There are different types of stock market analysis: 
 
