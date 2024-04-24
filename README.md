@@ -15,13 +15,13 @@ This project gives an overview of the difficulty is to predict the stock price a
 
 This project main purpose to focus on the following points:
 
-•	 How do Apple's historical stock prices and financial results compare to those of other significant tech firms?
-•	How can technical indicators be used to forecast stock price movements for short-term trading? • Which technical indicators have been found to be the most accurate at doing so?
-•	 How do macroeconomic factors like GDP growth, the unemployment rate, and the consumer price index affect the stock prices of companies that are publicly traded?
-•	How can a model be created that can show how a macroeconomic variable affects the stock market and which macroeconomic factor has the biggest impact on the price of Apple stock?
-•	Which model is more effective at forecasting stock price information?
-After fixing the research questions a lot of research papers were analysed. From the literature review, I gained insights to my problem statement: 
-•	Developing a deeper comprehension of the impact of various macroeconomic factors on various stock markets
-•	Importance of technical indicators and which all technical indicators such as MACD, Bollinger Bands are effective at forecasting changes in stock prices for short-term trading.
-•	Using macroeconomic variables to predict stock prices and effectively identify the most important factors influencing the stock market using Random Forest
-•	How LSTM is so good at predicting and forecasting stock prices using historical data.
+•	 How do Apple's historical stock prices and financial results compare to those of other significant tech firms?<br>
+•	How can technical indicators be used to forecast stock price movements for short-term trading? • Which technical indicators have been found to be the most accurate at doing so?<br>
+•	 How do macroeconomic factors like GDP growth, the unemployment rate, and the consumer price index affect the stock prices of companies that are publicly traded?<br>
+•	How can a model be created that can show how a macroeconomic variable affects the stock market and which macroeconomic factor has the biggest impact on the price of Apple stock?<br>
+•	Which model is more effective at forecasting stock price information?<br>
+After fixing the research questions a lot of research papers were analysed. From the literature review, I gained insights to my problem statement: <br>
+•	Developing a deeper comprehension of the impact of various macroeconomic factors on various stock markets<br>
+•	Importance of technical indicators and which all technical indicators such as MACD, Bollinger Bands are effective at forecasting changes in stock prices for short-term trading.<br>
+•	Using macroeconomic variables to predict stock prices and effectively identify the most important factors influencing the stock market using Random Forest<br>
+•	How LSTM is so good at predicting and forecasting stock prices using historical data.<br>
