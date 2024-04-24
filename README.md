@@ -11,6 +11,7 @@ A stock market is a type of marketplace that facilitates the buying and selling 
 3.**Quantitative analysis (Time Series Analysis)**: This technique examines a lot of data and generates market forecasts using mathematical models and algorithms.
    
 In this project, we are focusing on the Technical and Quantitative Analysis of Apple Inc. The dataset is taken from Yahoo Finance from 2010 January to 2022 November. Macroeconomic factors like GDP, Consumer Index Price (CPI) and the  Unemployment rate were selected to find out which factor has the most influence on Apple Stock price.
+
 This project gives an overview of the difficulty is to predict the stock price accurately as it is influenced by a wide variety of factors, including economic, political, social, and psychological factors. The future is inherently uncertain, and there are many unknowns that can impact the stock market, such as natural disasters, political events, and technological breakthroughs. These factors can interact in unpredictable ways, making it difficult to predict market movements.
 
 This project main purpose to focus on the following points:
